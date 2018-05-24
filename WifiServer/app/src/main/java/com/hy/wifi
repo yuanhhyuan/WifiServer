@@ -1,0 +1,17 @@
+1.wifi扫描连接：
+Wifilistconnect
+
+http://blog.csdn.net/guozhaohui628/article/details/78644150
+
+wifi连接代码，验证ok：
+https://github.com/GuoZhaoHui628/WifiListConnect
+
+2.wifi热点：
+WifihotspotActivity 建立wifi热点
+
+wifiserver
+ServerActivity 采用TCP协议的socket，在wifi形成的局域网内，创建服务端
+
+wificlient
+先在手机设置里wifi连接到WifihotspotActivity创建的wifi热点。
+采用TCP协议的socket，在wifi形成的局域网内，创建客户端。
