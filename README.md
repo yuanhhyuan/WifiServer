@@ -67,3 +67,10 @@ package com.hy.wifihotspot
             tvClientMsg.setText(s+"\n");
         }
     }
+    
+    
+    
+二、移动端连接到wifi路由
+package com.hy.wificonnect
+
+这部分理论与手机设置里连接到WiFi理论相同。
